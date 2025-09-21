@@ -1,1 +1,1 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/Octam00/Phantom-Strike/refs/heads/main/phantomstrike.lua"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Octam00/Phantom-Strike/refs/heads/main/phantomstrike"))()
